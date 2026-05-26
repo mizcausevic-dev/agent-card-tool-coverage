@@ -1,0 +1,7 @@
+{
+  "tools": [
+    { "name": "search-vectorstore", "description": "Semantic search over uploaded docs" },
+    { "name": "summarize", "description": "Bullet summary of an arbitrary text" },
+    { "name": "delete-document", "description": "Permanently remove an indexed document" }
+  ]
+}

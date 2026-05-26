@@ -1,0 +1,8 @@
+{
+  "tools": [
+    { "name": "search-vectorstore", "description": "Semantic search over uploaded docs" },
+    { "name": "summarize", "description": "Bullet summary of an arbitrary text" },
+    { "name": "cite-passage", "description": "Return a verbatim quote with page number" },
+    { "name": "send-email", "description": "Send a follow-up email after summarization" }
+  ]
+}

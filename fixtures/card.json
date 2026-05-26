@@ -1,0 +1,12 @@
+{
+  "agent_card_version": "0.1",
+  "agent": { "id": "research-assistant", "name": "Research Assistant" },
+  "capabilities": {
+    "tools": [
+      { "name": "search-vectorstore", "side_effects": "read" },
+      { "name": "summarize", "side_effects": "read" },
+      { "name": "cite-passage", "side_effects": "read" },
+      { "name": "send-email", "side_effects": "external" }
+    ]
+  }
+}
